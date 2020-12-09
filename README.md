@@ -14,3 +14,4 @@ Execute the following command in the root directory:
 # REFERENCE
 
 - https://hub.docker.com/r/bitnami/tomcat/
+- https://github.com/bitnami/bitnami-docker-tomcat
